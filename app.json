@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Q2pay",
-    "slug": "Q2pay",
+    "name": "Login - Q2pay",
+    "slug": "Login - Q2pay",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
